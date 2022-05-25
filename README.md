@@ -7,6 +7,25 @@ These are the KiCAD Project files for the Common-Miner-Baseboard PCB.
 Please feel free to modify the design files as per your requirements. Improvements are always appreciated !!!
 
 ---
+### Preview:
+
+1) PCB View 1:
+
+![Common-Miner-Baseboard](https://github.com/Duco-Miner/Common-Miner-Baseboard/blob/be04aa3c640580376349d220fed89e4c5d23abf6/IMAGES/Common-Miner-Baseboard-1.png)
+
+2) PCB View 2:
+
+![Common-Miner-Baseboard](https://github.com/Duco-Miner/Common-Miner-Baseboard/blob/be04aa3c640580376349d220fed89e4c5d23abf6/IMAGES/Common-Miner-Baseboard-2.png)
+
+3) PCB Front View:
+
+![Common-Miner-Baseboard](https://github.com/Duco-Miner/Common-Miner-Baseboard/blob/be04aa3c640580376349d220fed89e4c5d23abf6/IMAGES/Common-Miner-Baseboard-3.png)
+
+4) PCB Back View:
+
+![Common-Miner-Baseboard](https://github.com/Duco-Miner/Common-Miner-Baseboard/blob/be04aa3c640580376349d220fed89e4c5d23abf6/IMAGES/Common-Miner-Baseboard-4.png)
+
+---
 
 ### PCB Specifications:
 
